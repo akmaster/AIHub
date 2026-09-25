@@ -1,0 +1,6 @@
+{
+  "name": "AuraPersona - Günlük Hayat Sanal Influencer Merkezi",
+  "description": "Sıradan, samimi ve doğal bir yaşam süren mikro sanal influencerlar için fotoğraf üretimi, günlük feed planlayıcı ve butik işbirliği yönetim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
